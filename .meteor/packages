@@ -13,3 +13,9 @@ ian:accounts-ui-bootstrap-3
 audit-argument-checks
 
 standard-minifiers
+orionjs:core
+fortawesome:fontawesome
+orionjs:bootstrap
+aldeed:autoform
+aldeed:simple-schema
+orionjs:summernote
