@@ -4,6 +4,7 @@ if (Posts.find().count() === 0) {
   
    // create two users
 
+
   var sachaId = Accounts.createUser({
     profile: {
       name: 'Sacha Greif'

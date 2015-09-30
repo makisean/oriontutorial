@@ -19,3 +19,4 @@ orionjs:bootstrap
 aldeed:autoform
 aldeed:simple-schema
 orionjs:summernote
+orionjs:relationships
